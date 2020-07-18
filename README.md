@@ -10,5 +10,5 @@ This data set consists of mail customers. It includes CustomerID, Genre, Age, An
 # Task
 We want to cluster customers to cluster or groups similar objects into groups called clusters that they belong to.
 
-# Dendrograms methode
+# Dendrograms method
 method used to find the optimal number of clusters.
